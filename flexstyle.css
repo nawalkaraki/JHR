@@ -1,0 +1,31 @@
+
+body
+{
+background-image:url(https://www.pixelstalk.net/wp-content/uploads/images1/Room-home-luxury-style-modern-interior-backgrounds-1920x1080.jpg);
+background-size: cover;
+background-attachment: fixed;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card1 {
+    border-radius: 2em;
+    text-align: center;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+    display: block;
+    margin: 3px;
+  }
+  .card1 .img {
+    width: 70%;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  .card1 .card-title {
+    font-weight: 700;
+    font-size: 1.5em;
+  }
+  .card1 .btn {
+    border-radius: 2em;
+    background-color: teal;
+    color: #ffffff;
+    padding: 0.5em 1.5em;
+  }
